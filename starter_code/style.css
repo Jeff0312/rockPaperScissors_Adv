@@ -1,20 +1,35 @@
 .container { 
-    width: 800px;
-    width: 800px;
+    width: 850px;
+    width: 850px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 0;
     margin-bottom: 0;
+    background-color:;
 }
 .token { 
     width: 32%; 
-    border: 1px solid blue; 
+    border: 5px outset Blue; 
     margin-left: 1px;
     float:left;
     text-align: center;
     padding: 50px 0px 50px 0px;
-    font-size: x-large;
+    font-size: xx-large;
+    background-color:Black;
 }
 #message {
+    font-style:georgia;
     text-align: center;
+    color:Blue
+}
+body{
+    background-image:url("http://d24wuq6o951i2g.cloudfront.net/img/events/id/126/126155/assets/c33.scripted-logo.jpg");
+    background-color:FF00FF;
+    font-style:georgia;
+}
+div{
+    color:Blue;
+}
+h1{
+    color:Blue;
 }
